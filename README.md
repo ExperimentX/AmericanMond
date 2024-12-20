@@ -1,5 +1,6 @@
 # AmericanMond
-Rainmeter skin refitted with American settings (and weather works)
+Rainmeter skin refitted with American settings (updated date and time) 
+weather also works
 
 INSTRUCTIONS:
 1. Click the file after downloading Rainmeter https://www.rainmeter.net/
